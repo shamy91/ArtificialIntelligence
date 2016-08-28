@@ -1,0 +1,1 @@
+The program builds a knowledge base from input clauses. Based on first order logic, it then infers the result of a logical query supplied as input, and returns true or false.
